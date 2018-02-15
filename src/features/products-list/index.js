@@ -1,7 +1,5 @@
-// eslint-disable-next-line
 import React, { Component } from "react";
 import Product from "../product";
-// import { Button } from "semantic-ui-react";
 
 function generateVoteCount() {
 	return Math.floor(Math.random() * 50 + 15);
